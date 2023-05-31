@@ -1,6 +1,6 @@
 ## Attach and Mount an EBS volume to EC2 Linux Instance
 ### AWS allows you to create new EBS volumes, and you can attach them to instances for extra storage,to make EBS volume usable as storage inside the instance, you need to mount it to a specific folder.
-### Step1:
+
 ### create a new volume of your preferred size and type.
 
 1-Selete volume option from left side dashboared on EC2
