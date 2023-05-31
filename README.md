@@ -49,7 +49,7 @@
 
 ### Final Result:
 
-The EBS volume successfull attached to the linux instance
+The EBS volume successfully attached to the linux instance
 
 ![image](https://github.com/Rashek-R/AWS/assets/134732001/560374a8-31c6-41e9-a656-2397afefc4c2)
 
